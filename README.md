@@ -1,5 +1,9 @@
 # Kalkulator Investasi (Jetpack Compose)
 
+<p align="center">
+  <img src="app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="128" alt="App Logo">
+</p>
+
 ## Informasi Tugas
 - **Tugas Mobile Programmer Semester 6**
 - **Dosen Pengampu**: Muhammad Ikhwan Bayu Handono
